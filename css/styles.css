@@ -32,13 +32,13 @@ body {
 }
 
 .logo {
-    max-width: 90px;
+    max-width: 60px;
     opacity: 0;
     transition: opacity 1.5s ease-in-out;
 }
 
 .text-logo {
-    max-width: 100px;
+    max-width: 80px;
     opacity: 0;
     position: absolute;
     top: 50%;
